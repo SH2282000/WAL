@@ -1,0 +1,70 @@
+Gender,Age,Occupation,Student Status,Average Grade (Expect),Average ECTS (Expect),ECTS Summer,ECTS Winter,Grade Summer (AVG),Grade Winter (AVG)
+männlich,28,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Wintersemester,leicht höher im Wintersemester,24,30,1.30,1.54
+männlich,26,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Wintersemester,leicht höher im Wintersemester,36,30,2.0,2.0
+weiblich,23,Student (ohne Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,43,36,1.9,2.3
+männlich,24,Student (mit Job),currently studying (1st semester),,,,,,
+männlich,26,Student (mit Job),currently studying (2nd semester or higher),gleich,leicht höher im Sommersemester,30,30,2.0,2.0
+männlich,22,Student (mit Job),currently studying (2nd semester or higher),gleich,gleich,25,30,2.08,2.57
+männlich,29,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Wintersemester,höher im Wintersemester,27,51,1.44,1.15
+männlich,38,Vollzeitbeschäftigt,ehemalig studierend,gleich,gleich,50,50,2.8,2.8
+männlich,28,Student (mit Job),currently studying (2nd semester or higher),gleich,gleich,24,26,2.0,2.0
+männlich,22,Student (mit Job),currently studying (2nd semester or higher),gleich,leicht höher im Sommersemester,37,32,1.32,1.6
+männlich,28,Student (mit Job),currently studying (2nd semester or higher),gleich,gleich,15,14,1.3,2.3
+männlich,26,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Wintersemester,höher im Wintersemester,27,15,2.74,1.00
+männlich,27,Vollzeitbeschäftigt,ehemalig studierend,gleich,gleich,20,20,2.2,2.2
+männlich,28,Vollzeitbeschäftigt,ehemalig studierend,leicht besser im Wintersemester,leicht höher im Wintersemester,24,30,2.57,1.05
+männlich,24,Student (mit Job),currently studying (2nd semester or higher),besser im Wintersemester,höher im Wintersemester,12,24,1.3,1.3
+männlich,24,Student (mit Job),currently studying (2nd semester or higher),besser im Wintersemester,höher im Wintersemester,12,24,1.70,1.30
+männlich,25,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,12,12,2.2,2.1
+männlich,21,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,höher im Sommersemester,36,20,1.3,2.0
+weiblich,23,Student (mit Job),currently studying (2nd semester or higher),besser im Wintersemester,leicht höher im Wintersemester,24,30,2.7,1.3
+männlich,19,Student (mit Job),currently studying (2nd semester or higher),gleich,gleich,30,30,2.0,2.0
+männlich,23,Student (mit Job),currently studying (1st semester),,,,,,
+männlich,23,Student (ohne Job),currently studying (2nd semester or higher),leicht besser im Wintersemester,leicht höher im Wintersemester,9,18,1.3,1.1
+weiblich,24,Student (mit Job),currently studying (2nd semester or higher),gleich,leicht höher im Wintersemester,18,30,1.2,1.4
+männlich,24,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,gleich,24,24,2.2,1.5
+männlich,23,Student (mit Job),currently studying (2nd semester or higher),besser im Sommersemester,höher im Sommersemester,24,18,1.4,1.8
+männlich,25,Student (mit Job),currently studying (2nd semester or higher),gleich,leicht höher im Wintersemester,12,18,1.0,1.0
+weiblich,25,Student (mit Job),currently studying (1st semester),,,,,,
+männlich,25,Student (mit Job),currently studying (2nd semester or higher),gleich,leicht höher im Wintersemester,26,18,2.25,2.00
+männlich,23,Student (ohne Job),currently studying (2nd semester or higher),gleich,leicht höher im Wintersemester,12,12,1.3,1.15
+weiblich,23,Student (mit Job),currently studying (2nd semester or higher),gleich,höher im Sommersemester,42,36,2.00,1.78
+männlich,26,Student (mit Job),currently studying (1st semester),,,,,,
+männlich,21,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,höher im Wintersemester,30,29,2.12,2.14
+männlich,25,Student (mit Job),currently studying (2nd semester or higher),besser im Wintersemester,leicht höher im Wintersemester,19,16,3.0,2.7
+männlich,34,Student (mit Job),currently studying (1st semester),,,,,,
+männlich,23,Student (mit Job),currently studying (2nd semester or higher),gleich,gleich,30,30,1.73,2.37
+weiblich,24,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,höher im Wintersemester,30,45,1.4,1.88
+männlich,23,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,gleich,30,30,1.5,1.4
+weiblich,27,Unbeschäftigt,ehemalig studierend,leicht besser im Sommermemester,gleich,18,12,1.3,2.0
+weiblich,19,Student (mit Job),currently studying (1st semester),,,,,,
+weiblich,20,Student (mit Job),currently studying (1st semester),,,,,,
+weiblich,20,Student (ohne Job),currently studying (1st semester),,,,,,
+männlich,29,Student (mit Job),currently studying (1st semester),,,,,,
+weiblich,21,Student (mit Job),currently studying (2nd semester or higher),besser im Wintersemester,höher im Sommersemester,0,0,4.0,1.8
+weiblich,22,Student (ohne Job),currently studying (1st semester),,,,,,
+männlich,18,Student (ohne Job),currently studying (1st semester),,,,,,
+männlich,19,Student (ohne Job),currently studying (1st semester),,,,,,
+männlich,23,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,33,30,2.1,2.5
+weiblich,21,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,24,1.8,2.1
+weiblich,20,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,27,2.0,2.2
+weiblich,22,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,23,23,1.8,1.7
+männlich,25,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,27,1.33,1.66
+weiblich,21,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,27,1.66,2.00
+weiblich,24,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,30,2.33,2.33
+männlich,21,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,gleich,30,30,1.33,1.66
+weiblich,26,Student (mit Job),currently studying (2nd semester or higher),leicht besser im Sommermemester,leicht höher im Sommersemester,30,30,2.33,2.00
+female,21,Student (without a job),currently studying (2nd semester or higher),slightly better in the winter semester,the same,30,30,3,3.2
+female,21,Student (without a job),currently studying (2nd semester or higher),slightly better in the winter semester,slightly higher in the winter semester,30,30,2,2
+male,25,Student (without a job),currently studying (1st semester),,,,,,
+male,23,Student (with a job),previously studied,better in the summer semester,the same,30,35,2.13,2.08
+male,24,Student (with a job),currently studying (2nd semester or higher),slightly better in the winter semester,slightly higher in the winter semester,36,36,2.3,3.0
+male,22,Student (without a job),currently studying (1st semester),,,,,,
+female,22,Student (with a job),currently studying (2nd semester or higher),the same,slightly higher in the summer semester,30,30,2.52,2.48
+female,23,Student (with a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,33,27,2.3,2.2
+female,22,Student (without a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,24,24,1.8,1.9
+female,21,Student (with a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,30,24,1.5,1.8
+female,23,Student (with a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,30,27,1.3,1.5
+male,20,Student (with a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,30,30,1.8,1.9
+female,21,Student (with a job),currently studying (2nd semester or higher),slightly better in the summer semester,slightly higher in the summer semester,33,30,1.8,1.66
+,,,,,,"26,55555556","26,68518519","2,5",2
