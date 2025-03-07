@@ -28,3 +28,13 @@ def remove_outliers_based_on_IQR(df:pd.DataFrame) -> pd.DataFrame:
     df = remove_outliers_per_column(df, "ECTS Winter")
     print("after removing ects winter outliers", len(df))
     return df
+
+
+def prepare_DF(df:pd.DataFrame) -> pd.DataFrame:
+    # Drop rows with missing values
+    df = df.dropna()
+    # remove outliers
+    df = remove_outliers_based_on_IQR(df)
+    # Reset the index so it is continuous
+    df = df.reset_index(drop=True)
+    return df
